@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Node.js application
 
 This repository is a sample Node.js application for Docker's documentation.
@@ -13,3 +14,6 @@ docker
 docker build -t mytodoapp .      ------> command to creating a docker image 
 docker images                    ------> command to checking docker images locally
 docker run -it -d -p 3000:3000 mytodoapp       --------> command to run a docker container locally
+=======
+
+>>>>>>> abed4f14904cd1ef6fe7f7a4041c7b4836b74edd
